@@ -1,1 +1,3 @@
 lib/
+.travis.yml
+tsconfig.json
